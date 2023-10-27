@@ -2,11 +2,6 @@ package ru.miet.testing;
 
 import org.junit.jupiter.api.Test;
 
-import javax.swing.*;
-
-
-
-
 public class ErrorsTest {
     @Test
     void divideZeroTest() throws Exception {

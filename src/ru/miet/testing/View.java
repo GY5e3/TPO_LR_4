@@ -173,7 +173,7 @@ public class View extends JFrame implements CalculatorView{
      */
     public void printResult(double result)
     {
-        if(!er.isVisible())
+        if(er == null || !er.isVisible())
         {
             ResultWindow resultWindow = new ResultWindow(result);
         }
