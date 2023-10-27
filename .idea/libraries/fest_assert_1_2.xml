@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fest-assert-1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/fest-assert-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/fest-reflect-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/fest-swing-1.2a4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/fest-util-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
